@@ -4,7 +4,7 @@ A web-based application that collects user information, stores it in a MySQL dat
 
 ## Live Website
 
-View the live project here:[Click Here!](https://nassebah.infinityfreeapp.com/form.html)
+View the live project here: [Click Here!](https://nassebah.infinityfreeapp.com/form.html)
 
 ## Technologies Used
 
