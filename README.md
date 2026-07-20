@@ -1,12 +1,20 @@
-# OnlineForm
+# 🌐 OnlineForm
 
 A web-based application that collects user information, stores it in a MySQL database, displays records dynamically, and allows users to toggle the status value between 0 and 1.
 
-## Live Website
+## 🌍 Live Website
 
 View the live project here: [Click Here!](https://nassebah.infinityfreeapp.com/form.html)
 
-## Technologies Used
+## ✨ Features
+
+- Add new records using a form
+- Store data in MySQL database
+- Display all records dynamically
+- Toggle status values between 0 and 1
+- Update records without reloading the page
+
+## 🛠️ Technologies Used
 
 - HTML
 - CSS
@@ -15,7 +23,7 @@ View the live project here: [Click Here!](https://nassebah.infinityfreeapp.com/f
 - MySQL
 - InfinityFree Hosting
 
-## Development Steps
+## 🚀 Development Steps
 
 1. Created a MySQL database using InfinityFree and created an `info` table to store ID, name, age, and status values.
 
@@ -33,14 +41,10 @@ View the live project here: [Click Here!](https://nassebah.infinityfreeapp.com/f
 
 8. Added CSS styling to improve the layout and appearance of the webpage.
 
-## Features
+## 📸 Preview
 
-- Add new records using a form
-- Store data in MySQL database
-- Display all records dynamically
-- Toggle status values between 0 and 1
-- Update records without reloading the page
+![Online Form Preview](Content/online-form-preview.png)
 
-## Author
+## 👩‍💻 Author
 
 Nassebah Al-Dubayyan
