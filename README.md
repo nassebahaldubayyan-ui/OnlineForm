@@ -53,7 +53,7 @@ View the live project here: [Click Here!](https://nassebah.infinityfreeapp.com/f
 
 ## 📸 Preview
 
-![Online Form Preview](Content/online-form-preview.png)
+![Online Form Preview](online-form-preview.png)
 
 ---
 
