@@ -4,6 +4,12 @@ A web-based application that collects user information, stores it in a MySQL dat
 
 ---
 
+## 📸 Preview
+
+![Online Form Preview](online-form-preview.png)
+
+---
+
 ## 🌍 Live Website
 
 View the live project here: [Click Here!](https://nassebah.infinityfreeapp.com/form.html)
@@ -48,12 +54,6 @@ View the live project here: [Click Here!](https://nassebah.infinityfreeapp.com/f
 7. Created `toggle.php` to update the status value between 0 and 1 when the toggle button is clicked.
 
 8. Added CSS styling to improve the layout and appearance of the webpage.
-
----
-
-## 📸 Preview
-
-![Online Form Preview](online-form-preview.png)
 
 ---
 
