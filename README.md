@@ -2,6 +2,12 @@
 
 A web-based application that collects user information, stores it in a MySQL database, displays records dynamically, and allows users to toggle the status value between 0 and 1.
 
+## Live Website
+
+View the live project here:
+
+[Click Here!](https://nassebah.infinityfreeapp.com/form.html)
+
 ## Technologies Used
 
 - HTML
