@@ -2,9 +2,13 @@
 
 A web-based application that collects user information, stores it in a MySQL database, displays records dynamically, and allows users to toggle the status value between 0 and 1.
 
+---
+
 ## 🌍 Live Website
 
 View the live project here: [Click Here!](https://nassebah.infinityfreeapp.com/form.html)
+
+---
 
 ## ✨ Features
 
@@ -14,6 +18,8 @@ View the live project here: [Click Here!](https://nassebah.infinityfreeapp.com/f
 - Toggle status values between 0 and 1
 - Update records without reloading the page
 
+---
+
 ## 🛠️ Technologies Used
 
 - HTML
@@ -22,6 +28,8 @@ View the live project here: [Click Here!](https://nassebah.infinityfreeapp.com/f
 - PHP
 - MySQL
 - InfinityFree Hosting
+
+---
 
 ## 🚀 Development Steps
 
@@ -41,9 +49,13 @@ View the live project here: [Click Here!](https://nassebah.infinityfreeapp.com/f
 
 8. Added CSS styling to improve the layout and appearance of the webpage.
 
+---
+
 ## 📸 Preview
 
 ![Online Form Preview](Content/online-form-preview.png)
+
+---
 
 ## 👩‍💻 Author
 
